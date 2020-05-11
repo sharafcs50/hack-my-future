@@ -8,12 +8,6 @@
 >     * ... by module. Perhaps you like to organize your notes with one folder per module, keeping track of what you have learned in the order you learned it.
 >     * ... by project. Or do you like to organize the skills you learn by the project you were working on when you learned them>
 >     * There is no wrong way to organize you notes as long as they help you learn.
-> 1. Create a first [user-owned project board](https://help.github.com/en/github/managing-your-work-on-github/creating-a-project-board#creating-a-user-owned-project-board) called __learnables__.  Here's a suggestion for what columns to use:
->     1. __Unclear__: things you want to learn at some point, but don't yet have much understanding of
->     1. __Basic Understanding__: Things you already kind of understand but aren't comfortable doing
->     1. __Currently Studying__: The things you are actively learning and practicing. There should never be more than ~5-6 cards in this column, if there are you should take some time to refocus your learning
->     1. __Comfortable__: You are comfortable using these skills/tools in your own projects & exercises, but maybe don't understand them completely
->     1. __Confident__: You know these things well enough that you'd be able to help the next group of HYF students with their homework
 > 1. Continue experimenting as you study, finding how this repository can best help you organize your learning. To reorganize it as time goes on, and to make whatever project boards, folders, issues or pull requests you find helpful.  This is your learning after all all!
 
 
